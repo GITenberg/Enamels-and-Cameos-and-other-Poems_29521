@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
     - http://en.wikipedia.org/wiki/Théophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29521#Enamels-and-Cameos-and-other-Poems
 gutenberg_issued: '2009-07-27'
 gutenberg_type: Text
 identifiers:
